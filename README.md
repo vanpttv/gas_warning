@@ -1,0 +1,2 @@
+# gas_warning
+Tạo giao diện cảnh báo khí gas cho 3 phòng trên Android Studio: sử dụng Relative Layout, có nút nhấn, TextView, EditText. Lấy dữ liệu trên firebase để tính toán và đưa thông số lên giao diện app. Thiết lập ngưỡng để khi khí gas phát hiện được vượt ngưỡng sẽ đưa ra thông báo đẩy trên điện thoại. Nếu TT_CHUONG nhận được trên firebase =ON thì có thông báo đẩy và chuông 15s xuất hiện. Người sử dụng chở 15s chuông tự tắt hoặt vào app bấm tắt chuông.
